@@ -1,6 +1,4 @@
-# Cloud Natural Language API: Qwik Start || [GSP097](https://www.cloudskillsboost.google/focuses/582?parent=catalog) ||
-
-## Solution [here](https://youtu.be/cnmag49ro24)
+# Cloud Natural Language API: Qwik Start 
 
 ### Run the following Commands in SSH
 ```
@@ -16,7 +14,3 @@ sudo chmod +x gsp097.sh
 ##### *You Have Successfully Demonstrated Your Skills And Determination.*
 
 #### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
